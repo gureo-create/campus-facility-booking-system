@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# PHP
+vendor/
+composer.lock
+*.log
+
+# Local environment / secrets
+.env
